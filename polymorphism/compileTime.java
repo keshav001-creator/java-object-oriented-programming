@@ -1,5 +1,5 @@
 //method overloading: same method name but different parameters
-// in method overloading function name is same but there paramters or return type should be different
+// in method overloading each function should be different in terms of parameters (number of parameters or type of parameters) and return type can be same or different
 
 public class compileTime {
 
